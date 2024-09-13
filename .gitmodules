@@ -1,3 +1,6 @@
 [submodule "KiCad-Libraries"]
 	path = KiCad-Libraries
 	url = https://github.com/cmu-argus-2/KiCad-Libraries
+[submodule "DRV8235-Dev"]
+	path = DRV8235-Dev
+	url = https://github.com/cmu-argus-2/Avionics-DRV8235-Dev
