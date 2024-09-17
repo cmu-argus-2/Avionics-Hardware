@@ -1,0 +1,3 @@
+[submodule "Avionics-DRV8235-Dev"]
+	path = Avionics-DRV8235-Dev
+	url = https://github.com/cmu-argus-2/Avionics-DRV8235-Dev
