@@ -1,0 +1,3 @@
+[submodule "Avionics-BatteryBoard"]
+	path = Avionics-BatteryBoard
+	url = https://github.com/cmu-argus-2/Avionics-BatteryBoard
