@@ -1,0 +1,3 @@
+[submodule "Avionics-LoRa-Dev"]
+	path = Avionics-LoRa-Dev
+	url = https://github.com/cmu-argus-2/Avionics-LoRa-Dev
