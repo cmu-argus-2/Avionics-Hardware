@@ -1,3 +1,6 @@
 [submodule "Avionics-BatteryBoard"]
 	path = Avionics-BatteryBoard
 	url = https://github.com/cmu-argus-2/Avionics-BatteryBoard
+[submodule "Avionics-Mainboard"]
+	path = Avionics-Mainboard
+	url = git@github.com:cmu-argus-2/Avionics-Mainboard.git
