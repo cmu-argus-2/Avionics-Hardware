@@ -10,3 +10,9 @@
 [submodule "KiCad-Libraries"]
 	path = KiCad-Libraries
 	url = https://github.com/cmu-argus-2/KiCad-Libraries
+[submodule "Avionics-Deployables"]
+	path = Avionics-Deployables
+	url = https://github.com/cmu-argus-2/Avionics-Deployables
+[submodule "Avionics-CameraHub"]
+	path = Avionics-CameraHub
+	url = https://github.com/cmu-argus-2/Avionics-CameraHub
