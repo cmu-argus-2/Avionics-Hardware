@@ -4,3 +4,9 @@
 [submodule "Avionics-BatteryBoard"]
 	path = Avionics-BatteryBoard
 	url = git@github.com:cmu-argus-2/Avionics-BatteryBoard.git
+[submodule "Avionics-SolarPanels"]
+	path = Avionics-SolarPanels
+	url = https://github.com/cmu-argus-2/Avionics-SolarPanels
+[submodule "KiCad-Libraries"]
+	path = KiCad-Libraries
+	url = https://github.com/cmu-argus-2/KiCad-Libraries
