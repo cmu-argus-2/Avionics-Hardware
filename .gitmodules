@@ -10,3 +10,12 @@
 [submodule "Avionics-Deployables"]
 	path = Avionics-Deployables
 	url = https://github.com/cmu-argus-2/Avionics-Deployables
+[submodule "Avionics-Minus-Z"]
+	path = Avionics-Minus-Z
+	url = https://github.com/cmu-argus-2/Avionics-Minus-Z
+[submodule "Avionics-Plus-Z"]
+	path = Avionics-Plus-Z
+	url = https://github.com/cmu-argus-2/Avionics-Plus-Z
+[submodule "Avionics-XY"]
+	path = Avionics-XY
+	url = https://github.com/cmu-argus-2/Avionics-XY
