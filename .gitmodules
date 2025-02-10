@@ -10,15 +10,3 @@
 [submodule "Avionics-Deployables"]
 	path = Avionics-Deployables
 	url = https://github.com/cmu-argus-2/Avionics-Deployables
-[submodule "Avionics-CameraHub"]
-	path = Avionics-CameraHub
-	url = https://github.com/cmu-argus-2/Avionics-CameraHub
-[submodule "Avionics-SolarPanels-Z-Minus"]
-	path = Avionics-SolarPanels-Z-Minus
-	url = https://github.com/cmu-argus-2/Avionics-SolarPanels-Z-Minus
-[submodule "Avionics-SolarPanels-Z-Plus"]
-	path = Avionics-SolarPanels-Z-Plus
-	url = https://github.com/cmu-argus-2/Avionics-SolarPanels-Z-Plus
-[submodule "Avionics-SolarPanels-XY"]
-	path = Avionics-SolarPanels-XY
-	url = https://github.com/cmu-argus-2/Avionics-SolarPanels-XY
