@@ -19,3 +19,6 @@
 [submodule "Avionics-XY"]
 	path = Avionics-XY
 	url = https://github.com/cmu-argus-2/Avionics-XY
+[submodule "Avionics-JetsonCarrier"]
+	path = Avionics-JetsonCarrier
+	url = https://github.com/cmu-argus-2/Avionics-JetsonCarrier
