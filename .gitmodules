@@ -22,3 +22,6 @@
 [submodule "KiCad-Libraries"]
 	path = KiCad-Libraries
 	url = git@github.com:cmu-argus-2/KiCad-Libraries.git
+[submodule "Avionics-RWboard"]
+	path = Avionics-RWboard
+	url = git@github.com:cmu-argus-2/Avionics-RWboard.git
