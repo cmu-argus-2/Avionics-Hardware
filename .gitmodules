@@ -4,15 +4,24 @@
 [submodule "Avionics-BatteryBoard"]
 	path = Avionics-BatteryBoard
 	url = git@github.com:cmu-argus-2/Avionics-BatteryBoard.git
-[submodule "Avionics-SolarPanels"]
-	path = Avionics-SolarPanels
-	url = https://github.com/cmu-argus-2/Avionics-SolarPanels
-[submodule "KiCad-Libraries"]
-	path = KiCad-Libraries
-	url = https://github.com/cmu-argus-2/KiCad-Libraries
 [submodule "Avionics-Deployables"]
 	path = Avionics-Deployables
-	url = https://github.com/cmu-argus-2/Avionics-Deployables
-[submodule "Avionics-CameraHub"]
-	path = Avionics-CameraHub
-	url = https://github.com/cmu-argus-2/Avionics-CameraHub
+	url = git@github.com:cmu-argus-2/Avionics-Deployables.git
+[submodule "Avionics-Minus-Z"]
+	path = Avionics-Minus-Z
+	url = git@github.com:cmu-argus-2/Avionics-Minus-Z.git
+[submodule "Avionics-Plus-Z"]
+	path = Avionics-Plus-Z
+	url = git@github.com:cmu-argus-2/Avionics-Plus-Z.git
+[submodule "Avionics-XY"]
+	path = Avionics-XY
+	url = https://github.com/cmu-argus-2/Avionics-XY
+[submodule "Avionics-JetsonCarrier"]
+	path = Avionics-JetsonCarrier
+	url = git@github.com:cmu-argus-2/Avionics-JetsonCarrier.git
+[submodule "KiCad-Libraries"]
+	path = KiCad-Libraries
+	url = git@github.com:cmu-argus-2/KiCad-Libraries.git
+[submodule "Avionics-RWboard"]
+	path = Avionics-RWboard
+	url = git@github.com:cmu-argus-2/Avionics-RWboard.git
